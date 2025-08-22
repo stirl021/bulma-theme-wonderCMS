@@ -1,13 +1,13 @@
 {
     "version": 1,
     "themes": {
-        "sky": {
+        "bulma": {
             "name": "Bulma",
-            "repo": "https://github.com/robiso/sky/tree/master",
-            "zip": "https://github.com/robiso/sky/archive/master.zip",
-            "summary": "Default WonderCMS theme (2022). Theme works without Bootstrap and jQuery.",
+            "repo": "https://github.com/stirl021/bulma-theme-wonderCMS",
+            "zip": "https://github.com/stirl021/bulma-theme-wonderCMS/archive/refs/heads/main.zip",
+            "summary": "Default WonderCMS Bulma theme (2022).",
             "version": "0.0.1",
-            "image": "https://raw.githubusercontent.com/robiso/sky/master/preview.jpg"
+            "image": "https://raw.githubusercontent.com/stirl021/bulma-theme-wonderCMS/main/preview.png"
         }
     }
 }
